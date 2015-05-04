@@ -4,8 +4,8 @@
     "children":
     [
     {
-    	"caption" : "Keil Complier",
-    	"command" : "complie"
+    	"caption" : "Keil Compiler",
+    	"command" : "compile"
 	}
 	]
 }
